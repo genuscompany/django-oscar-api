@@ -20,3 +20,9 @@ docs/build/
 demosite/images
 demosite/cache
 demosite/*.sqlite
+
+# IDE files
+.project
+.pydevproject
+.settings
+.idea
